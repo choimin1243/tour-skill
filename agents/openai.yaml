@@ -1,0 +1,6 @@
+﻿interface:
+  display_name: "탐방수업"
+  short_description: "Run Korean classroom map-tour lessons"
+  default_prompt: "Use $tour-skill to prepare an interactive 탐방수업 map lesson."
+policy:
+  allow_implicit_invocation: true
