@@ -1,4 +1,4 @@
-﻿---
+---
 name: tour-skill
 description: Korean elementary social-studies tour lesson helper for building and running interactive local-neighborhood, history, terrain-contour, desert/cold-climate, and climate-zone comparison map lessons with the bundled Python server. Use when the user asks Codex to run or prepare a 탐방수업, 역사탐방, 우리동네 탐방, 지형 등고선 탐색, 건조지대/한랭지대 탐방, or climate-zone comparison activity.
 ---
